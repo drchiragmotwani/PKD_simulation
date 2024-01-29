@@ -22,5 +22,5 @@ Graph showing angular data for each case of spasticity
 https://youtu.be/UpEXNICHZss
 
 ## References
-[1] Valle MS, Casabona A, Sgarlata R, Garozzo R, Vinci M, Cioni M. The pendulum test as a tool to evaluate passive knee stiffness and viscosity of patients with rheumatoid arthritis. BMC Musculoskelet Disord. 2006 Nov 29;7:89. doi: 10.1186/1471-2474-7-89. PMID: 17134492; PMCID: PMC1693559.
+[1] Valle MS, Casabona A, Sgarlata R, Garozzo R, Vinci M, Cioni M. The pendulum test as a tool to evaluate passive knee stiffness and viscosity of patients with rheumatoid arthritis. BMC Musculoskelet Disord. 2006 Nov 29;7:89. doi: 10.1186/1471-2474-7-89. PMID: 17134492; PMCID: PMC1693559.   
 [2] https://www.ncbi.nlm.nih.gov/medgen/1643622
